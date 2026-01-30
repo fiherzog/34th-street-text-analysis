@@ -1,5 +1,5 @@
 # Analyzing Mental Health in 34th Street Magazine - Andrew Lu and Fiona Herzog
-## Group project for COMM3130 _Computational Text Analysis for Communication Research_ (Fall 2024)
+## Group project for COMM3130 _Computational Text Analysis for Communication Research
 
 If you haven’t read 34th Street Magazine, where have you been? (Seriously, go pick up an issue in Anneberg right now.) Both authors write for 34th Street Magazine, and we were interested in looking more at the past articles for the publication we both contribute to. 
 
